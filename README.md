@@ -1,36 +1,50 @@
-<h1 align="left">Hey What's up?</h1>
+<h1 align="center">Hi 👋, I'm Aya Sabry</h1>
+<h3 align="center">Full Stack Developer | ITI Graduate (Open Source Track)</h3>
 
-###
+---
 
-<p align="left">My name is aya sabry and I'm a full stack developer, ITI graduate (open source track)</p>
+### 👩‍💻 About Me:
+- 💻 I’m a **Full Stack Developer** passionate about building responsive and dynamic web applications.
+- 🚀 Skilled in **React.js, Next.js, Node.js, Laravel**.
+- 🎯 Currently focusing on **Next.js & Clean Code Practices**.
+- 📚 Always learning new technologies to improve my craft.
+- 📫 Reach me at **[ayasabry410@gmail.com]** or on [LinkedIn](https://www.linkedin.com/in/aya-sabry-85469524a/).
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 🛠️ Tech Stack:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+</p>
+---
 
-###
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
-<p align="left">As a Frontend Developer, I specialize in creating responsive and visually compelling web applications using HTML, CSS, JavaScript, and frameworks like React.js and Next.js. I'm skilled in optimizing performance, ensuring cross-browser compatibility, and designing user-centric interfaces. I'm committed to continuous learning and excel in collaborating with teams to deliver high-quality solutions. My extensive freelancing experience enhances my adaptability across diverse projects.<br><br>Web Development: Frontend development using HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Material UI, and modern frameworks like React.js and Next.js.<br>CSS Frameworks: Tailwind CSS, Material UI, Bootstrap<br>Frontend Frameworks: React.js, Redux, Redux Toolkit, React Router, Next.js<br>Backend: PHP with Laravel framework, Node.js, Express.js<br>Version Control: Git with GitHub<br>Databases: , MySQL, MongoDB<br>API Testing: Postman<br>SEO Optimization: Implementing search engine best practices<br>TypeScript: Strong understanding of TypeScript for frontend development<br>Design Tools: Figma, Adobe XD<br>Project Management: Agile methodologies and project tracking tools (Jira, Trello)</p>
+---
 
-###
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/aya-sabry-85469524a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ayasabry410@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<h2 align="left">I code with</h2>
+---
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-</div>
-
-###
+⭐ **Don't forget to star my repositories if you like them!**
