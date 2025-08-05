@@ -40,11 +40,8 @@
   <a href="https://www.linkedin.com/in/aya-sabry-85469524a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ayasabry410@gmail.com">
+  <a href="ayasabry410@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
-
-⭐ **Don't forget to star my repositories if you like them!**
